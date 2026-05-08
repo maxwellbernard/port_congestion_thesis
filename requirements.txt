@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+statsmodels
+jupyter
+jupytext>=1.16
+ruff
+black
+requests
+duckdb
+zstandard
+pyarrow
+contextily
+pyproj
+seaborn
